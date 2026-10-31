@@ -32,4 +32,4 @@ If something doesn’t work, run Check_brain.bat (AI), Check_phone.bat (phone pa
 No character art is included. Put your own picture named uzi.png in the folder, or pick one in the control panel.
 How I used AI
 
-I used AI tools to help write some of the code (edit this so it’s exactly true). The AI assistant Claude helped me write the installer, the README and this explanation, and helped me troubleshoot. I tested it, decided what the project should do, and put it together myself.
+I used AI tools to help write some of the code. The AI assistant Claude helped me write the installer, the README and this explanation, and helped me troubleshoot. I tested it, decided what the project should do, and put it together myself.
